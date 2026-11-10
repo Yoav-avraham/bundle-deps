@@ -1,0 +1,2 @@
+[console_scripts]
+bundle-deps = bundle_deps.cli:main
